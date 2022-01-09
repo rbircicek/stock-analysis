@@ -20,8 +20,8 @@ What are the advantages and disadvantages of refactoring code?
 •	It may use less memory
 Disadvantages:
 •	It may be risky when the existing code doesn't have proper test cases to find 
-            the bugs.
+    the bugs.
 •	It may be risky when developers do not understand the original code and cannot 
-            follow the flow of the code.  
+    follow the flow of the code.  
 
 
